@@ -9,6 +9,6 @@ kodlama.io web sitesinin ana sayfasında bulunan eğitmen, kategori ve kurs böl
 
 Aşağıdaki isterleri gerçekleştiriniz.
 
-1.Kurs ismi tekrar edemez
-2.Kategori ismi tekrar edemez
-3.Bir kursun fiyatı 0 dan küçük olamaz
+* Kurs ismi tekrar edemez
+* Kategori ismi tekrar edemez
+* Bir kursun fiyatı 0 dan küçük olamaz
